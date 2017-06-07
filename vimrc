@@ -131,7 +131,7 @@ let g:syntastic_python_flake8_args='--ignore=E501'
 let g:syntastic_ignore_files = ['.java$']
 " }}}
 " Launch Config {{{
-runtime! debian.vim
+"runtime! debian.vim
 set nocompatible
 call pathogen#infect()
 " }}}
